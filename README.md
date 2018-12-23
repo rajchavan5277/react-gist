@@ -7,7 +7,7 @@
 5. React Deplyomnet:
 6. React Testing:
 
-# react-gist
-Gist of React Js
+[]()
 # Table of content : 
-1. [React JS basic Code](https://github.com/rajchavan5277/react-demo#updating-to-new-releases)  
+1. Creating first react App: [npm create-react-app my-app](https://facebook.github.io/create-react-app/docs/getting-started)  
+2. Starting first react App on local Server: [npm start](https://facebook.github.io/create-react-app/docs/getting-started)
